@@ -1,7 +1,8 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 xui-id="234713" tvg-id="MAS23" tvg-name="+23 TV (SD)" tvg-logo="https://imgur.com/jDlj0E6.png" group-title="Panama",+23 TV (SD)
 http://nubiatv.live:80/play/TZgKnyoCNDsqQeiY6PrsSf4-ssIwnorwJ4kFymo-JZ6gu1a0JnzanGejAul4b0T6/ts
 #EXTINF:-1 xui-id="68532" tvg-id="" tvg-name="1000 X HORA (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn2am8DvKbG_YcsQoZ9u5wR8.png" group-title="Uruguay",1000 X HORA (HD)
 http://nubiatv.live:80/play/TZgKnyoCNDsqQeiY6PrsSVKJ7Tg5ngWUJJxYado2xk8/ts
 #EXTINF:-1 xui-id="15367" tvg-id="CAN26HD" tvg-name="26TV (SD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn007Y4aSCwk1rViXM0jqoaw.png" group-title="Argentina",26TV (SD)
 http://nubiatv.live:80/play/TZgKnyoCNDsqQeiY6PrsSWGq5Zqn4FbMHOej6Hc0CT8/ts
-#EXTINF:-1 xui-id="43437" tvg-id="" tvg-name="3 Familias (HD)" tvg-logo="http://nubiatv.live:80/images/coqK2Yes1dAuvQm94XVhn0GvRI1SbAYyt6ObBfLczKs.png" group-title="24/7 Canales",3 Familias (HD)
-http://nubiatv.live:80/play/TZgKnyoCNDsqQeiY6PrsSXJYe4INiXbLz7Kbte9NUqE/ts
