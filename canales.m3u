@@ -1,4 +1,26 @@
 #EXTM3U
 
 #EXTINF:-1 ,Canal prueba 001
-http://coninfo.net:1935/13maxhd/live_720p/.m3u8
+http://nubiatv.live:80/play/TZgKnyoCNDsqQeiY6PrsSXJGZ41uLU6z2W6_fH-S9j-qp9hz3Lg9IUVnegMcHNkF/ts
+
+
+#EXTINF:-1 ,Canal prueba 002
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+
+#EXTINF:-1 ,Canal prueba 003
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
+
+#EXTINF:-1 ,Canal prueba 004
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 ,Canal prueba 005
+http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8
+
+#EXTINF:-1 ,Canal prueba 006
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 ,Canal prueba 007
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/.m3u8
+
+#EXTINF:-1 ,pelicula
+http://nubiatv.live:80/play/_WZj56odpHetZh9PvZSbIsVOhcSYTNATkfNXQBKh1Xz_2h539eW5MWYdRQx5S3UA#.mp4
