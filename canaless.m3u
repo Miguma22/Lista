@@ -1,0 +1,921 @@
+#EXTM3U
+
+-----------DIBUJOS
+#EXTINF:-1,TV GALICIA INFANTIL
+http://51.222.25.50:25461/m0nk/n3w/3406
+
+#EXTINF:-1,DISNEY JR tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png" group-title="DIBUJOS",DISNEY JUNIOR
+http://51.222.25.50:25461/m0nk/n3w/83
+
+#EXTINF:-1,CARTOON NETWORK tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="DIBUJOS",CARTOON NETWORK
+http://51.222.25.50:25461/m0nk/n3w/63
+
+#EXTINF:-1,CARTOONITO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="DIBUJOS",CARTOONITO
+http://51.222.25.50:25461/m0nk/n3w/58
+
+#EXTINF:-1,DISCOVERY KIDS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/215px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="DIBUJOS",DISCOVERY KIDS
+http://51.222.25.50:25461/m0nk/n3w/76
+
+#EXTINF:-1,NICK tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="DIBUJOS",NICK
+http://51.222.25.50:25461/m0nk/n3w/136
+
+#EXTINF:-1,NICK JR tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png" group-title="DIBUJOS",NICK JR
+http://51.222.25.50:25461/m0nk/n3w/137
+
+#EXTINF:-1,NICKTOONS EU tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/Nicktoons-United-States-Logo.png" group-title="DIBUJOS",NICKTOONS EU
+http://51.222.25.50:25461/m0nk/n3w/138
+
+
+-----------KIDS
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo=""https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEcAmmbfzUj5EKyxrC7XQ1Xp-jSh_mUEZH3PiB0GnquJIBB7dlbyAyu_KpqRWWCpiZnbc&usqp=CAU group-title="Kids", Tooncast
+http://flash.shortgod.com/bye2022/tv2.php?id=116&token=ShortGod&file=.m3u8
+
+
+-----------RELIGION
+#EXTINF:-1 tvg-id="DiosTeVeKids.hn" tvg-logo="https://i.imgur.com/GnZicVH.png" group-title="Religions",Dios Te Ve Infantil
+https://emisoras.hn:8081/diostevekids/playlist.m3u8
+
+#EXTINF:-1,RELIGIOSO | JRES TV
+http://51.222.25.50:25461/m0nk/n3w/946
+
+#EXTINF:-1,RELIGIOSO | ALIENTO VISION
+http://51.222.25.50:25461/m0nk/n3w/941
+
+#EXTINF:-1,RD | LVM 480
+http://51.222.25.50:25461/m0nk/n3w/3380
+
+
+-----------MOVISTAR
+#EXTINF:-1,MOVISTAR COMEDIA tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Movistar_isotype_2020.svg/1200px-Movistar_isotype_2020.svg.png" group-title="MOVISTAR",MOVISTAR COMEDIA
+http://51.222.25.50:25461/m0nk/n3w/3577
+
+#EXTINF:-1,MOVISTAR DRAMA tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Movistar_isotype_2020.svg/1200px-Movistar_isotype_2020.svg.png" group-title="MOVISTAR",MOVISTAR DRAMA
+http://51.222.25.50:25461/m0nk/n3w/3580
+
+#EXTINF:-1,MOVISTAR ESTRENOS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Movistar_isotype_2020.svg/1200px-Movistar_isotype_2020.svg.png" group-title="MOVISTAR",MOVISTAR DRAMA
+http://51.222.25.50:25461/m0nk/n3w/3581
+
+#EXTINF:-1,MOVISTAR SERIE 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Movistar_isotype_2020.svg/1200px-Movistar_isotype_2020.svg.png" group-title="MOVISTAR",MOVISTAR SERIE 2
+http://51.222.25.50:25461/m0nk/n3w/3582
+
+----------- Dibujos 24/7
+
+#EXTINF:-1,24/7 ROBOTECH
+http://51.222.25.50:25461/m0nk/n3w/2922
+
+#EXTINF:-1,24/7 Dragon Ball z
+http://51.222.25.50:25461/m0nk/n3w/2926
+
+#EXTINF:-1,24/7 NARUTO
+http://51.222.25.50:25461/m0nk/n3w/2939
+
+#EXTINF:-1,24/7 CABALLEROS DEL SODIACO
+http://51.222.25.50:25461/m0nk/n3w/2941
+
+#EXTINF:-1,24/7 MASINGERZ
+http://51.222.25.50:25461/m0nk/n3w/2942
+
+#EXTINF:-1,24/7 BOB ESPONJA
+http://51.222.25.50:25461/m0nk/n3w/2946
+
+#EXTINF:-1,24/7 MALCOLM
+http://51.222.25.50:25461/m0nk/n3w/2947
+
+#EXTINF:-1,24/7 CAR | Un Show Mas
+http://51.222.25.50:25461/m0nk/n3w/3536
+
+#EXTINF:-1,24/7 CAR | Looney Tunes
+http://51.222.25.50:25461/m0nk/n3w/3550
+
+#EXTINF:-1,24/7 Pinky y el Cerebro
+http://51.222.25.50:25461/m0nk/n3w/1110
+
+
+-----------Serie 24/7
+
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor Temp1" tvg-logo="https://www.axn.es/sites/es.axn/files/ct_series_f_primary_image/the_good_doctor_t6_key_art_axne_16_9_1.jpg" group-title="Serie 24/7",The Good Doctor Temp1
+http://flash.shortgod.com/bye2022/tv1.php?id=2056
+
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm el del Medio Temp1" tvg-logo="https://www.axn.es/sites/es.axn/files/ct_series_f_primary_image/the_good_doctor_t6_key_art_axne_16_9_1.jpg" group-title="Serie 24/7",Malcolm el del Medio Temp1
+http://flash.shortgod.com/bye2022/tv1.php?id=2057
+
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm el del Medio Temp3" tvg-logo="https://www.axn.es/sites/es.axn/files/ct_series_f_primary_image/the_good_doctor_t6_key_art_axne_16_9_1.jpg" group-title="Serie 24/7",Malcolm el del Medio Temp3
+http://flash.shortgod.com/bye2022/tv1.php?id=2059
+
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm el del Medio Temp4" tvg-logo="https://www.axn.es/sites/es.axn/files/ct_series_f_primary_image/the_good_doctor_t6_key_art_axne_16_9_1.jpg" group-title="Serie 24/7",Malcolm el del Medio Temp4
+http://flash.shortgod.com/bye2022/tv1.php?id=2060
+
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm el del Medio Temp5" tvg-logo="https://www.axn.es/sites/es.axn/files/ct_series_f_primary_image/the_good_doctor_t6_key_art_axne_16_9_1.jpg" group-title="Serie 24/7",Malcolm el del Medio Temp5
+http://flash.shortgod.com/bye2022/tv1.php?id=2061
+
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm el del Medio Temp6" tvg-logo="https://www.axn.es/sites/es.axn/files/ct_series_f_primary_image/the_good_doctor_t6_key_art_axne_16_9_1.jpg" group-title="Serie 24/7",Malcolm el del Medio Temp6
+http://flash.shortgod.com/bye2022/tv1.php?id=2062
+
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm el del Medio Temp7" tvg-logo="https://www.axn.es/sites/es.axn/files/ct_series_f_primary_image/the_good_doctor_t6_key_art_axne_16_9_1.jpg" group-title="Serie 24/7",Malcolm el del Medio Temp7
+http://flash.shortgod.com/bye2022/tv1.php?id=2063
+
+#EXTINF:-1 tvg-id="" tvg-name="La teoría del Big Bang" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/06/La_teor%C3%ADa_del_Big_Bang.jpg/revision/latest?cb=20220214011226&path-prefix=es" group-title="Serie 24/7",La teoría del Big Bang
+http://flash.shortgod.com/bye2022/tv1.php?id=2071
+
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8" tvg-logo="https://imagenes.elpais.com/resizer/Li4k6sR51F7xoZDvOXoU1hzoJTc=/1200x0/filters:focal(377.5x212.5:387.5x222.5)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/WZF3MMB4ONHUTB5KBSMFZ7L2OI.JPG" group-title="Serie 24/7",El Chavo Del 8
+http://flash.shortgod.com/bye2022/tv1.php?id=2045
+
+#EXTINF:-1 tvg-id="" tvg-name="El Juego Del Calamar" tvg-logo="https://i.blogs.es/eaa6e4/el-juego-del-calamar-cartel/450_1000.jpeg" group-title="Serie 24/7",El Juego Del Calamar
+http://flash.shortgod.com/bye2022/tv1.php?id=2052
+
+#EXTINF:-1 tvg-id="" tvg-name="Mi bella Genio" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e0/Genio_Poster.png/revision/latest?cb=20210129151558&path-prefix=es" group-title="Serie 24/7", Mi bella Genio
+http://flash.shortgod.com/bye2022/tv2.php?id=93&token=ShortGod&file=.m3u8
+
+#EXTINF:-1,24/7 | The Big Bang Theory
+http://51.222.25.50:25461/m0nk/n3w/2931
+
+#EXTINF:-1,24/7 | ROSA DE GUADALUPE
+http://51.222.25.50:25461/m0nk/n3w/3544
+
+#EXTINF:-1,24/7 EL PRINCIPE DEL RAP
+http://51.222.25.50:25461/m0nk/n3w/2929
+
+
+
+-----------MUSICA
+#EXTINF:-1 tvg-id="1075" tvg-name="Cadena Elite" tvg-logo="https://i2.paste.pics/9beaf1949244b5eb5e5ed3af28304f52.png" group-title="Musica", Cadena Elite | ES
+https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1062" tvg-name="Canal VM Latino" tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png" group-title="Musica", Canal VM Latino | CR
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="63" tvg-name="Bajo Cero TV" tvg-logo="https://i2.paste.pics/3caab16270214727377ff0994bb64031.png" group-title="Musica", Bajo Cero TV | CL
+https://mediacpstreamchile.com:1936/bajocero/bajocero/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,MUSIC | Zapping Music | CL
+http://51.222.25.50:25461/m0nk/n3w/3629
+
+
+-----------PERÚ
+#EXTINF:-1,LATINA tvg-logo="https://github.com/Miguma22/Lista/blob/main/Logo_Canales/LATINA.JPG" group-title="PERÚ",LATINA
+http://51.222.25.50:25461/m0nk/n3w/461
+
+#EXTINF:-1,MOVISTAR DEPORTES tvg-logo="https://github.com/Miguma22/Lista/blob/main/Logo_Canales/MOVISTARDEPORTES.png" group-title="PERÚ",MOVISTAR DEPORTES
+http://51.222.25.50:25461/m0nk/n3w/464
+
+#EXTINF:-1,AMERICA TV tvg-logo="https://github.com/Miguma22/Lista/blob/main/Logo_Canales/AMERICA.PNG" group-title="PERÚ",AMERICA TV
+http://51.222.25.50:25461/m0nk/n3w/459
+
+#EXTINF:-1,PANAMERICANA tvg-logo="https://github.com/Miguma22/Lista/blob/main/Logo_Canales/PANAMERICANA.PNG" group-title="PERÚ",PANAMERICANA
+http://51.222.25.50:25461/m0nk/n3w/462
+
+#EXTINF:-1,CANAL N tvg-logo="https://github.com/Miguma22/Lista/blob/main/Logo_Canales/CANALN.PNG" group-title="PERÚ",CANAL N
+http://51.222.25.50:25461/m0nk/n3w/1117
+
+#EXTINF:-1,ATV tvg-logo="https://github.com/Miguma22/Lista/blob/main/Logo_Canales/ATV.PNG" group-title="PERÚ",ATV
+http://51.222.25.50:25461/m0nk/n3w/460
+
+#EXTINF:-1,ATV PLUS tvg-logo="https://github.com/Miguma22/Lista/blob/main/Logo_Canales/ATV+.PNG" group-title="PERÚ",ATV PLUS
+http://51.222.25.50:25461/m0nk/n3w/472
+
+#EXTINF:-1,WILLAX TV tvg-logo="https://github.com/Miguma22/Lista/blob/main/Logo_Canales/WILLAX.PNG" group-title="PERÚ",WILLAX TV
+http://51.222.25.50:25461/m0nk/n3w/473
+
+#EXTINF:-1,RPP tvg-logo="https://github.com/Miguma22/Lista/blob/main/Logo_Canales/RPP.PNG" group-title="PERÚ",RPP
+http://51.222.25.50:25461/m0nk/n3w/1196
+
+#EXTINF:-1,TV PERU NOTICIAS tvg-logo="https://github.com/Miguma22/Lista/blob/main/Logo_Canales/TVPERUNOTICIAS.PNG" group-title="PERÚ",TV PERU NOTICIAS
+http://51.222.25.50:25461/m0nk/n3w/469
+
+#EXTINF:-1,GOL PERU tvg-logo="https://github.com/Miguma22/Lista/blob/main/Logo_Canales/GOLPERU.PNG" group-title="PERÚ",GOL PERU
+http://51.222.25.50:25461/m0nk/n3w/463
+
+#EXTINF:-1,PERU MAGICO tvg-logo="https://github.com/Miguma22/Lista/blob/main/Logo_Canales/PERU.MAGICO" group-title="PERÚ",PERU MAGICO
+http://51.222.25.50:25461/m0nk/n3w/466
+
+#EXTINF:-1,TV PERU tvg-logo="https://github.com/Miguma22/Lista/blob/main/Logo_Canales/TVPERU.PNG" group-title="PERÚ",TV PERU
+http://51.222.25.50:25461/m0nk/n3w/468
+
+#EXTINF:-1,CANAL IPE tvg-logo="https://www.tvperu.gob.pe/sites/default/files/canal-ip-app2.jpg" group-title="PERÚ",CANAL IPE
+http://51.222.25.50:25461/m0nk/n3w/470
+
+#EXTINF:-1,BHTV tvg-logo="https://github.com/Miguma22/Lista/blob/main/Logo_Canales/IPE.PNG" group-title="PERÚ",BHTV
+http://51.222.25.50:25461/m0nk/n3w/979
+
+#EXTINF:-1,ANTARES TV BHTV tvg-logo="https://github.com/Miguma22/Lista/blob/main/Logo_Canales/ANTARES" group-title="PERÚ",ANTARES TV
+http://51.222.25.50:25461/m0nk/n3w/980
+
+#EXTINF:-1,CULTURA 24 tvg-logo="https://github.com/Miguma22/Lista/blob/main/Logo_Canales/CULTURA24.PNG" group-title="PERÚ",CULTURA 24
+http://51.222.25.50:25461/m0nk/n3w/982
+
+
+-----------PANAMA
+#EXTINF:-1,SER TV tvg-logo="" group-title="PANAMA",SER TV
+http://51.222.25.50:25461/m0nk/n3w/837
+
+#EXTINF:-1,TELEMETRO tvg-logo="" group-title="PANAMA",TELEMETRO
+http://51.222.25.50:25461/m0nk/n3w/838
+
+#EXTINF:-1,HOSANNA VISION tvg-logo="" group-title="PANAMA",HOSANNA VISION
+http://51.222.25.50:25461/m0nk/n3w/3016
+
+
+-----------PUERTO RICO
+#EXTINF:-1,MEGA TV tvg-logo="" group-title="PUERTO RICO",MEGA TV
+http://51.222.25.50:25461/m0nk/n3w/180
+
+#EXTINF:-1,PUNTO 2 tvg-logo="" group-title="PUERTO RICO",PUNTO 2
+http://51.222.25.50:25461/m0nk/n3w/181
+
+#EXTINF:-1,UNIVISION tvg-logo="" group-title="PUERTO RICO",UNIVISION
+http://51.222.25.50:25461/m0nk/n3w/182
+
+#EXTINF:-1,WAPA tvg-logo="" group-title="PUERTO RICO",WAPA
+http://51.222.25.50:25461/m0nk/n3w/183
+
+#EXTINF:-1,WAPA 2 tvg-logo="" group-title="PUERTO RICO",WAPA 2
+http://51.222.25.50:25461/m0nk/n3w/184
+
+#EXTINF:-1,WIPR tvg-logo="" group-title="PUERTO RICO",WIPR
+http://51.222.25.50:25461/m0nk/n3w/185
+
+
+-----------VENEZUELA
+#EXTINF:-1,21 TELESUR tvg-logo="https://i.pinimg.com/originals/24/df/6d/24df6d35f3dd31836c76c3a7bfac32d4.jpg" group-title="VENEZUELA",20 PROMART
+http://51.222.25.50:25461/m0nk/n3w/1301
+
+#EXTINF:-1,20 PROMART tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="VENEZUELA",21 TELESUR
+http://51.222.25.50:25461/m0nk/n3w/1304
+
+#EXTINF:-1,22 IVC tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/IVC_Network_Logo.png" group-title="VENEZUELA",22 IVC
+http://51.222.25.50:25461/m0nk/n3w/3284
+
+#EXTINF:-1,23 CANAL I PURA VIDA tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Canal_i.png" group-title="VENEZUELA",23 CANAL I PURA VIDA
+http://51.222.25.50:25461/m0nk/n3w/3286
+
+#EXTINF:-1,24 VENEVISION tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/400px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="VENEZUELA",24 VENEVISION
+http://51.222.25.50:25461/m0nk/n3w/3288
+
+
+-----------HBO
+#EXTINF:-1,HBO tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4f79gHBECfQGyhjQWaubbs5znU2b_6N6Gay6zv61A&s" group-title="HBO",HBO
+http://51.222.25.50:25461/m0nk/n3w/118
+
+#EXTINF:-1,HBO 2 tvg-logo="https://w7.pngwing.com/pngs/1007/946/png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo-thumbnail.png" group-title="HBO",HBO 2
+http://51.222.25.50:25461/m0nk/n3w/119
+
+#EXTINF:-1,HBO FAMILY tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="HBO",HBO FAMILY
+http://51.222.25.50:25461/m0nk/n3w/3147
+
+#EXTINF:-1,HBO + tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png" group-title="HBO",HBO +
+http://51.222.25.50:25461/m0nk/n3w/121
+
+#EXTINF:-1,HBO PLUS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="HBO",HBO PLUS
+http://51.222.25.50:25461/m0nk/n3w/3151
+
+#EXTINF:-1,HBO EXTREME tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="HBO",HBO EXTREME
+http://51.222.25.50:25461/m0nk/n3w/3152
+
+#EXTINF:-1,HBO POP tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/2560px-HBO_Pop.svg.png" group-title="HBO",HBO POP
+http://51.222.25.50:25461/m0nk/n3w/3149
+
+#EXTINF:-1,HBO MUNDI tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="HBO",HBO MUNDI
+http://51.222.25.50:25461/m0nk/n3w/3148
+
+#EXTINF:-1,HBO SIGNATURE tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="HBO",HBO SIGNATURE
+http://51.222.25.50:25461/m0nk/n3w/3150
+
+
+-----------DISCOVERY
+
+#EXTINF:-1,DISCOVERY ESPAÑOL tvg-logo="https://yt3.googleusercontent.com/5N7lrnIJ0dJFaUoPP1laIxm5NeYuNfcrwUDOkTyLkWtzcotlLXiLijlka6q9Sl0tidufHiPz=s900-c-k-c0x00ffffff-no-rj" group-title="DISCOVERY",DISCOVERY ESPAÑOL
+http://51.222.25.50:25461/m0nk/n3w/70
+
+#EXTINF:-1,DISCOVERY H&H tvg-logo="https://yt3.googleusercontent.com/nQKUFG03EzcMHQ-BFMWP3wmBPWDgDCBZatPssXY4riWuc_ZCFN5rQAova2US2olc6VDIF-OY1g=s900-c-k-c0x00ffffff-no-rj" group-title="DISCOVERY",DISCOVERY H&H
+http://51.222.25.50:25461/m0nk/n3w/74
+
+#EXTINF:-1,DISCOVERY ID tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="DISCOVERY",DISCOVERY ID
+http://51.222.25.50:25461/m0nk/n3w/75
+
+#EXTINF:-1,DISCOVERY SCIENCE tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="DISCOVERY",DISCOVERY SCIENCE
+http://51.222.25.50:25461/m0nk/n3w/77
+
+#EXTINF:-1,DISCOVERY THEATER tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2016/05/05/120038/LOGO_THEATER_BLACK.jpg" group-title="DISCOVERY",DISCOVERY THEATER
+http://51.222.25.50:25461/m0nk/n3w/78
+
+#EXTINF:-1,DISCOVERY TLC tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-tlc_m.png" group-title="DISCOVERY",DISCOVERY TLC
+http://51.222.25.50:25461/m0nk/n3w/79
+
+#EXTINF:-1,DISCOVERY TURBO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="DISCOVERY",DISCOVERY TURBO
+http://51.222.25.50:25461/m0nk/n3w/80
+
+#EXTINF:-1,DISCOVERY WORLD tvg-logo="https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-television-text-logo.png" group-title="DISCOVERY",DISCOVERY WORLD
+http://51.222.25.50:25461/m0nk/n3w/81
+
+
+-----------UNIVERSAL
+
+#EXTINF:-1,UNIVERSAL CRIME tvg-logo="https://televitos.com/wp-content/uploads/2022/12/UniversalCrime-768x480.jpg" group-title="UNIVERSAL",UNIVERSAL CRIME
+http://51.222.25.50:25461/m0nk/n3w/98
+
+#EXTINF:-1,UNIVERSAL CINEMA tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png" group-title="UNIVERSAL",UNIVERSAL CINEMA
+http://51.222.25.50:25461/m0nk/n3w/99
+
+#EXTINF:-1,UNIVERSAL REALITY tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Universal_Reality_2021.png/revision/latest?cb=20220102015650&path-prefix=es" group-title="UNIVERSAL",UNIVERSAL REALITY
+http://51.222.25.50:25461/m0nk/n3w/101
+
+#EXTINF:-1,UNIVERSAL PREMIER tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="UNIVERSAL",UNIVERSAL PREMIER
+http://51.222.25.50:25461/m0nk/n3w/103
+
+#EXTINF:-1,UNIVERSAL COMEDY tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_COMEDY.png.533fc9f53f261cd502372e7eb4c23d09.png" group-title="UNIVERSAL",UNIVERSAL COMEDY
+http://51.222.25.50:25461/m0nk/n3w/754
+
+
+-----------CABLE
+#EXTINF:-1,Latino | Warner TV
+http://51.222.25.50:25461/m0nk/n3w/178
+
+#EXTINF:-1,Latino | A&E
+http://51.222.25.50:25461/m0nk/n3w/38
+
+#EXTINF:-1,Latino | Cinemax
+http://51.222.25.50:25461/m0nk/n3w/66
+
+#EXTINF:-1,Latino | AXN
+http://51.222.25.50:25461/m0nk/n3w/47
+
+#EXTINF:-1,Latino | AMC
+http://51.222.25.50:25461/m0nk/n3w/44
+
+#EXTINF:-1,Latino | STAR CHANNEL
+http://51.222.25.50:25461/m0nk/n3w/97
+
+#EXTINF:-1,Latino | FX
+http://51.222.25.50:25461/m0nk/n3w/111
+
+#EXTINF:-1,Latino | Sony channel
+http://51.222.25.50:25461/m0nk/n3w/143
+
+#EXTINF:-1,LATINO | Paramount
+http://51.222.25.50:25461/m0nk/n3w/1141
+
+#EXTINF:-1,Latino | A&E
+http://51.222.25.50:25461/m0nk/n3w/153
+
+#EXTINF:-1,Latino | TNT
+http://51.222.25.50:25461/m0nk/n3w/156
+
+
+
+
+
+-----------URL FALTANTES
+#EXTINF:-1,LIFETIME tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="CABLE",LIFETIME
+http://51.222.25.50:25461/m0nk/n3w/300
+
+#EXTINF:-1,GOLDEN PREMIER tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CABLE",GOLDEN PREMIER
+http://51.222.25.50:25461/m0nk/n3w/285
+
+#EXTINF:-1,NAT GEO MUNDO tvg-logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="CABLE",NAT GEO MUNDO
+http://51.222.25.50:25461/m0nk/n3w/310
+
+#EXTINF:-1,NBC UNIVERSO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1280px-NBC_Universo_logo.svg.png" group-title="CABLE",NBC UNIVERSO
+http://51.222.25.50:25461/m0nk/n3w/330
+
+#EXTINF:-1,NICK tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="CABLE",NICK
+http://51.222.25.50:25461/m0nk/n3w/336
+
+#EXTINF:-1,UNIVISION MIAMI tvg-logo="https://www.univision.com/_next/static/images/univisionlogo.682dc421ed2c62ae1702c31365b6ecea.jpg" group-title="CABLE",UNIVISION MIAMI
+http://51.222.25.50:25461/m0nk/n3w/419
+
+#EXTINF:-1,STARZ KIDS&FAMILY tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Starz_Kids_%26_Family_logo.svg/1200px-Starz_Kids_%26_Family_logo.svg.png" group-title="CABLE",STARZ KIDS&FAMILY
+http://51.222.25.50:25461/m0nk/n3w/451
+
+
+
+#EXTINF:-1,Lati | A3S
+http://51.222.25.50:25461/m0nk/n3w/41
+
+#EXTINF:-1,Latino | ADN40
+http://51.222.25.50:25461/m0nk/n3w/42
+
+#EXTINF:-1,Latino | Affizionados
+http://51.222.25.50:25461/m0nk/n3w/43
+
+
+
+#EXTINF:-1,Latino | Animal Planet
+http://51.222.25.50:25461/m0nk/n3w/45
+
+#EXTINF:-1,Latino | Antena 3
+http://51.222.25.50:25461/m0nk/n3w/46
+
+
+
+#EXTINF:-1,Latino | AXN White
+http://51.222.25.50:25461/m0nk/n3w/48
+
+#EXTINF:-1,Latino | AyM Sports
+http://51.222.25.50:25461/m0nk/n3w/49
+
+#EXTINF:-1,Latino | AZ Cinema
+http://51.222.25.50:25461/m0nk/n3w/50
+
+#EXTINF:-1,Latino | AZ Corazon
+http://51.222.25.50:25461/m0nk/n3w/51
+
+#EXTINF:-1,Latino | AZ Mundo
+http://51.222.25.50:25461/m0nk/n3w/52
+
+#EXTINF:-1,Latino | Azteca 1
+http://51.222.25.50:25461/m0nk/n3w/53
+
+#EXTINF:-1,Latino | Azteca 7
+http://51.222.25.50:25461/m0nk/n3w/54
+
+#EXTINF:-1,Latino | Canal 11
+http://51.222.25.50:25461/m0nk/n3w/59
+
+#EXTINF:-1,Latino | Canal 5
+http://51.222.25.50:25461/m0nk/n3w/60
+
+#EXTINF:-1,Latino | Canal De Las Estrellas
+http://51.222.25.50:25461/m0nk/n3w/61
+
+#EXTINF:-1,Latino | CineCanal
+http://51.222.25.50:25461/m0nk/n3w/64
+
+
+
+#EXTINF:-1,Latino | CNN en Espanol
+http://51.222.25.50:25461/m0nk/n3w/67
+
+#EXTINF:-1,Latino | Comedy Central
+http://51.222.25.50:25461/m0nk/n3w/68
+
+#EXTINF:-1,Latino | De Pelicula
+http://51.222.25.50:25461/m0nk/n3w/69
+
+#EXTINF:-1,Latino | HGTV
+http://51.222.25.50:25461/m0nk/n3w/71
+
+
+
+#EXTINF:-1,Latino | Distrito Comedia
+http://51.222.25.50:25461/m0nk/n3w/85
+
+#EXTINF:-1,Latino | E!
+http://51.222.25.50:25461/m0nk/n3w/86
+
+#EXTINF:-1,Latino | El Garage
+http://51.222.25.50:25461/m0nk/n3w/87
+
+#EXTINF:-1,Latino | El Gourmet
+http://51.222.25.50:25461/m0nk/n3w/88
+
+#EXTINF:-1,Latino | ESPN 3
+http://51.222.25.50:25461/m0nk/n3w/91
+
+#EXTINF:-1,Latino | ESPN Deportes
+http://51.222.25.50:25461/m0nk/n3w/92
+
+
+#EXTINF:-1,Latino | Estrella TV
+http://51.222.25.50:25461/m0nk/n3w/94
+
+#EXTINF:-1,Latino | Food Network				COMIDA
+http://51.222.25.50:25461/m0nk/n3w/95
+
+#EXTINF:-1,Latino | Foro TV
+http://51.222.25.50:25461/m0nk/n3w/96
+
+
+
+
+#EXTINF:-1,Latino | FOX Sports
+http://51.222.25.50:25461/m0nk/n3w/105
+
+#EXTINF:-1,Latino | FOX Sports 2
+http://51.222.25.50:25461/m0nk/n3w/106
+
+#EXTINF:-1,Latino | FOX Sports 3
+http://51.222.25.50:25461/m0nk/n3w/107
+
+
+
+#EXTINF:-1,Latino | Glitz
+http://51.222.25.50:25461/m0nk/n3w/114
+
+#EXTINF:-1,Latino | Gol TV
+http://51.222.25.50:25461/m0nk/n3w/115
+
+#EXTINF:-1,Latino | Golden EDGE
+http://51.222.25.50:25461/m0nk/n3w/116
+
+#EXTINF:-1,Latino | Golden PREMIER
+http://51.222.25.50:25461/m0nk/n3w/117
+
+
+#EXTINF:-1,Latino | History 2
+http://51.222.25.50:25461/m0nk/n3w/122
+
+#EXTINF:-1,Latino | History Channel
+http://51.222.25.50:25461/m0nk/n3w/123
+
+#EXTINF:-1,Latino | Hola TV
+http://51.222.25.50:25461/m0nk/n3w/124
+
+#EXTINF:-1,Latino | Imagen
+http://51.222.25.50:25461/m0nk/n3w/125
+
+#EXTINF:-1,Latino | Lifetime
+http://51.222.25.50:25461/m0nk/n3w/126
+
+#EXTINF:-1,Latino | MasChic
+http://51.222.25.50:25461/m0nk/n3w/127
+
+#EXTINF:-1,Latino | Mexiquense
+http://51.222.25.50:25461/m0nk/n3w/130
+
+#EXTINF:-1,Latino | Multimedios
+http://51.222.25.50:25461/m0nk/n3w/131
+
+#EXTINF:-1,Latino | Nat Geo Mundo
+http://51.222.25.50:25461/m0nk/n3w/133
+
+#EXTINF:-1,Latino | Nat Geo Wild
+http://51.222.25.50:25461/m0nk/n3w/134
+
+#EXTINF:-1,Latino | National Geographic
+http://51.222.25.50:25461/m0nk/n3w/135
+
+#EXTINF:-1,Latino | Pasiones
+http://51.222.25.50:25461/m0nk/n3w/139
+
+
+
+#EXTINF:-1,Latino | Starz
+http://51.222.25.50:25461/m0nk/n3w/145
+
+#EXTINF:-1,Latino | Starz Encore		musica ?
+http://51.222.25.50:25461/m0nk/n3w/146
+
+#EXTINF:-1,Latino | Studio Universal
+http://51.222.25.50:25461/m0nk/n3w/147
+
+#EXTINF:-1,Latino | Sundance
+http://51.222.25.50:25461/m0nk/n3w/148
+
+#EXTINF:-1,Latino | SyFy
+http://51.222.25.50:25461/m0nk/n3w/149
+
+#EXTINF:-1,Latino | TBS			warner bros tv?
+http://51.222.25.50:25461/m0nk/n3w/150
+
+#EXTINF:-1,Latino | TCM
+http://51.222.25.50:25461/m0nk/n3w/151
+
+#EXTINF:-1,Latino | Teleformula
+http://51.222.25.50:25461/m0nk/n3w/152
+
+
+
+#EXTINF:-1,Latino | TLnovelas
+http://51.222.25.50:25461/m0nk/n3w/155
+
+
+
+#EXTINF:-1,Latino | TNT Series
+http://51.222.25.50:25461/m0nk/n3w/157
+
+#EXTINF:-1,Latino | Tooncast
+http://51.222.25.50:25461/m0nk/n3w/158
+
+#EXTINF:-1,Latino | TruTV
+http://51.222.25.50:25461/m0nk/n3w/159
+
+#EXTINF:-1,Latino | TUDN				futbol
+http://51.222.25.50:25461/m0nk/n3w/160
+
+#EXTINF:-1,Latino | TVC				futbol
+http://51.222.25.50:25461/m0nk/n3w/161
+
+#EXTINF:-1,Latino | TVC Deportes			futbol
+http://51.222.25.50:25461/m0nk/n3w/162
+
+#EXTINF:-1,Latino | TyC Sports
+http://51.222.25.50:25461/m0nk/n3w/163
+
+#EXTINF:-1,Latino | Unicable
+http://51.222.25.50:25461/m0nk/n3w/173
+
+#EXTINF:-1,Latino | Universal Channel
+http://51.222.25.50:25461/m0nk/n3w/175
+
+
+
+#EXTINF:-1,Latino | Win Sports
+http://51.222.25.50:25461/m0nk/n3w/179
+
+#EXTINF:-1,LATINO | TEEN NICK 2
+http://51.222.25.50:25461/m0nk/n3w/585
+
+#EXTINF:-1,LATINO | GOLDEN
+http://51.222.25.50:25461/m0nk/n3w/757
+
+#EXTINF:-1,LATINO | GOLDEN PREMIER
+http://51.222.25.50:25461/m0nk/n3w/756
+
+#EXTINF:-1,LATINO | HBO SIGNATURE
+http://51.222.25.50:25461/m0nk/n3w/755
+
+#EXTINF:-1,LATINO | MTV LIVE 
+http://51.222.25.50:25461/m0nk/n3w/753
+
+#EXTINF:-1,LATINO | MTV
+http://51.222.25.50:25461/m0nk/n3w/752
+
+#EXTINF:-1,LATINO | BABY FIRTS
+http://51.222.25.50:25461/m0nk/n3w/899
+
+#EXTINF:-1,UK | SKY CINEMA SELET
+http://51.222.25.50:25461/m0nk/n3w/762
+
+#EXTINF:-1,LATINO | CGTN ESPANOL
+http://51.222.25.50:25461/m0nk/n3w/961
+
+#EXTINF:-1,LATINO | DIRECTV SPORTS 2
+http://51.222.25.50:25461/m0nk/n3w/1048
+
+#EXTINF:-1,LATINO | DIREC TV PLUS
+http://51.222.25.50:25461/m0nk/n3w/1046
+
+
+
+#EXTINF:-1,LATINO | FILMS ART
+http://51.222.25.50:25461/m0nk/n3w/1152
+
+#EXTINF:-1,LATINO | BABY TV
+http://51.222.25.50:25461/m0nk/n3w/2938
+
+#EXTINF:-1,LATINO | 35PN 
+http://51.222.25.50:25461/m0nk/n3w/3041
+
+#EXTINF:-1,LATINO | TU-DN
+http://51.222.25.50:25461/m0nk/n3w/3226
+
+#EXTINF:-1,LATINO | DIR3C TV 1
+http://51.222.25.50:25461/m0nk/n3w/3281
+
+#EXTINF:-1,LA LIGA : BARCA TV				FOX
+http://51.222.25.50:25461/m0nk/n3w/3292
+
+#EXTINF:-1,LA LIGA : M. LA LIGA
+http://51.222.25.50:25461/m0nk/n3w/3321
+
+#EXTINF:-1,LATINO | STAR CHANEL
+http://51.222.25.50:25461/m0nk/n3w/3475
+
+#EXTINF:-1,Latino | A+
+http://51.222.25.50:25461/m0nk/n3w/3482
+
+#EXTINF:-1,LATINO FHD : DISCOVERY TURBO
+http://51.222.25.50:25461/m0nk/n3w/3130
+
+#EXTINF:-1,LATINO FHD : ANIMAL PLANET
+http://51.222.25.50:25461/m0nk/n3w/3131
+
+#EXTINF:-1,LATINO FHD : DISCOVERY CHANNEL
+http://51.222.25.50:25461/m0nk/n3w/3132
+
+#EXTINF:-1,LATINO FHD : HGTV
+http://51.222.25.50:25461/m0nk/n3w/3133
+
+#EXTINF:-1,LATINO FHD : DISCOVERY FAMILIA
+http://51.222.25.50:25461/m0nk/n3w/3134
+
+#EXTINF:-1,LATINO FHD : DISCOVERY H&H
+http://51.222.25.50:25461/m0nk/n3w/3135
+
+#EXTINF:-1,LATINO FHD : UNIVERSAL COMEDY
+http://51.222.25.50:25461/m0nk/n3w/3139
+
+#EXTINF:-1,LATINO FHD : UNIVERSAL CINEMA
+http://51.222.25.50:25461/m0nk/n3w/3144
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,USA | Cinema Dc Comics HD
+http://51.222.25.50:25461/m0nk/n3w/3018
+#EXTINF:-1,USA | Cinema Marvel Studio HD
+http://51.222.25.50:25461/m0nk/n3w/3019
+#EXTINF:-1,USA | Cinema Lego Movies HD
+http://51.222.25.50:25461/m0nk/n3w/3020
+#EXTINF:-1,USA | Cinema Happy Madisson HD
+http://51.222.25.50:25461/m0nk/n3w/3021
+#EXTINF:-1,USA | Cinema DC Universe HD
+http://51.222.25.50:25461/m0nk/n3w/3022
+#EXTINF:-1,USA | Cinema Ciencia Ficcion HD
+http://51.222.25.50:25461/m0nk/n3w/3023
+#EXTINF:-1,USA | Cinema Accion Classics HD
+http://51.222.25.50:25461/m0nk/n3w/3024
+#EXTINF:-1,USA | Cinema Horror HD
+http://51.222.25.50:25461/m0nk/n3w/3025
+#EXTINF:-1,USA | Cinema Disney Pixar HD
+http://51.222.25.50:25461/m0nk/n3w/3026
+#EXTINF:-1,USA | Cinema Disney Family HD
+http://51.222.25.50:25461/m0nk/n3w/3027
+#EXTINF:-1,USA | The Walking Dead
+http://51.222.25.50:25461/m0nk/n3w/3029
+#EXTINF:-1,USA | Galavision
+http://51.222.25.50:25461/m0nk/n3w/284
+
+
+
+
+
+
+-----------NOVELAS
+#EXTINF:-1,SONY NOVELAS
+http://51.222.25.50:25461/m0nk/n3w/3564
+
+#EXTINF:-1,SONY COMEDIAS
+http://51.222.25.50:25461/m0nk/n3w/3565
+
+
+
+
+
+
+
+-----------Musica
+#EXTINF:-1,TELEMILENIO tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1647-640x360-FFFFFF.jpg" group-title="MUSICA",TELEMILENIO
+http://51.222.25.50:25461/m0nk/n3w/3364
+
+#EXTINF:-1,MUSIC | Video Tour Channel | CR
+http://51.222.25.50:25461/m0nk/n3w/3648
+
+#EXTINF:-1,Latino | Bandamax
+http://51.222.25.50:25461/m0nk/n3w/55
+
+#EXTINF:-1,Latino | Ritmoson
+http://51.222.25.50:25461/m0nk/n3w/141
+
+#EXTINF:-1,Latino | Telehit
+http://51.222.25.50:25461/m0nk/n3w/153
+
+#EXTINF:-1,Latino | VH1
+http://51.222.25.50:25461/m0nk/n3w/176
+
+#EXTINF:-1,Latino | VH1 Classic
+http://51.222.25.50:25461/m0nk/n3w/177
+
+#EXTINF:-1,LATINO | MTV LIVE 
+http://51.222.25.50:25461/m0nk/n3w/753
+
+
+
+
+
+-----------Musica Video
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="MUSICA VIDEO", Yearmix2009
+https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="MUSICA VIDEO", Yearmix2010
+https://ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ%20Panduro%20-%20Video%20Yearmix%202010.mp4
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="MUSICA VIDEO", Yearmix2011
+https://ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ%20Panduro%20%26%20DJ%20Cool%20-%20Video%20Yearmix%202011%20%28HD%20720%29.mp4
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="MUSICA VIDEO", Yearmix2012
+https://ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ%20Panduro%20-%20Video%20Yearmix%202012.mp4
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="MUSICA VIDEO", Yearmix2013
+https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="MUSICA VIDEO", Yearmix2014
+https://ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%20-%20Video%20Yearmix%202014%20%28HD%29.mp4
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="MUSICA VIDEO", Yearmix2015
+https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="MUSICA VIDEO", The 80s Videomix Volume 1
+https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Panduro%20-%20The%2080%27s%20Videomix%20%28Volume%201%29.mp4
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="MUSICA VIDEO", The 90s EurodanceVideomix
+https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Classic Project 1 (70, 80, 90s Reloaded 2008)
+https://ia601503.us.archive.org/24/items/TheClassicProject1/The%20Classic%20Project%201.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Classic Project 2 (Pop eurodance 90s)
+https://ia601500.us.archive.org/26/items/TheClassicProject2/The%20Classic%20Project%202.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Classic Project 3 (Pop 2000-2004)
+https://ia601508.us.archive.org/32/items/TheClassicProject3/The%20Classic%20Project%203.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Classic Project 4 (70, 80, 90s)
+https://ia601500.us.archive.org/25/items/TheClassicProject4/The%20Classic%20Project%204.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Classic Project 5 (Rock Pop 90s)
+https://ia801503.us.archive.org/20/items/TheClassicProject5/The%20Classic%20Project%205.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Classic Project 6 (Pop 2004-2006)
+https://ia601509.us.archive.org/8/items/TheClassicProject6/The%20Classic%20Project%206.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Classic Project 7 (Reggaeton)
+https://ia601509.us.archive.org/27/items/TheClassicProject7/The%20Classic%20Project%207.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Classic Project 8 (Español)
+https://ia601500.us.archive.org/11/items/TheClassicProject8/The%20Classic%20Project%208.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Classic Project 9 (70, 80, 90s)
+https://ia601503.us.archive.org/0/items/TheClassicProject9/The%20Classic%20Project%209.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Classic Project 10 (Soundtrack)
+https://ia601506.us.archive.org/14/items/TheClassicProject10/The%20Classic%20Project%2010.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Classic Project 11 (Rock latino)
+https://ia601508.us.archive.org/21/items/TheClassicProject11/The%20Classic%20Project%2011.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Classic Project 12 (Onda disco)
+https://ia601507.us.archive.org/11/items/TheClassicProject12/The%20Classic%20Project%2012.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Classic Project 13 (Exitos en español)
+https://ia601503.us.archive.org/14/items/TheClassicProject13/The%20Classic%20Project%2013.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Classic Project 14-1 (Rock edition CD 1)
+https://ia601509.us.archive.org/16/items/TheClassicProject14.1/The%20Classic%20Project%2014.1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Classic Project 14-2 (Rock edition CD 2)
+https://archive.org/download/TheClassicProject14.2/The%20Classic%20Project%2014.2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Bonus Project 3 (Old skool)
+https://ia801507.us.archive.org/7/items/BonusProject3/Bonus%20Project%203.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Bonus Project 5 (Tropical mix)
+https://ia601504.us.archive.org/18/items/BonusProject5/Bonus%20Project%205.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Bonus Project 6 (Tropical mix 2)
+https://ia601500.us.archive.org/1/items/BonusProject6/Bonus%20Project%206.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Bonus Project 7 (Tropical mix 3)
+https://ia601500.us.archive.org/5/items/BonusProject7/Bonus%20Project%207.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Bonus Project 8 (Dance remixes 2)
+https://ia601506.us.archive.org/1/items/BonusProject8/Bonus%20Project%208.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Bonus Project 9 (Pop)
+https://ia601500.us.archive.org/28/items/BonusProject09/Bonus%20Project%2009.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Bonus Project 11 (Dance remixes 3)
+https://ia601506.us.archive.org/5/items/BonusProject11/Bonus%20Project%2011.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lsDBlE.png" group-title="MUSICA VIDEO", Bonus Project 14 (Salsa Mix)
+https://ia601508.us.archive.org/26/items/BonusProject14/Bonus%20Project%2014.mp4
+
+
+
+-----------Serie Anime
+#EXTINF:-1 tvg-id="" tvg-name="SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 1" tvg-logo="http://iptvglobal.site:25461/images/8686dad4c58c4567dbfe3483711eb956.jpg" group-title="Serie Anime",SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 1
+https://ia902601.us.archive.org/21/items/swurdss08/swurdss01.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 2" tvg-logo="http://iptvglobal.site:25461/images/8686dad4c58c4567dbfe3483711eb956.jpg" group-title="Serie Anime",SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 2
+https://ia902601.us.archive.org/21/items/swurdss08/swurdss02.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 3" tvg-logo="http://iptvglobal.site:25461/images/8686dad4c58c4567dbfe3483711eb956.jpg" group-title="Serie Anime",SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 3
+https://ia902601.us.archive.org/21/items/swurdss08/swurdss03.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 4" tvg-logo="http://iptvglobal.site:25461/images/8686dad4c58c4567dbfe3483711eb956.jpg" group-title="Serie Anime",SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 4
+https://ia902601.us.archive.org/21/items/swurdss08/swurdss04.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 5" tvg-logo="http://iptvglobal.site:25461/images/8686dad4c58c4567dbfe3483711eb956.jpg" group-title="Serie Anime",SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 5
+https://ia902601.us.archive.org/21/items/swurdss08/swurdss05.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 6" tvg-logo="http://iptvglobal.site:25461/images/8686dad4c58c4567dbfe3483711eb956.jpg" group-title="Serie Anime",SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 6
+https://ia902601.us.archive.org/21/items/swurdss08/swurdss06.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 7" tvg-logo="http://iptvglobal.site:25461/images/8686dad4c58c4567dbfe3483711eb956.jpg" group-title="Serie Anime",SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 7
+https://ia902601.us.archive.org/21/items/swurdss08/swurdss07.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 8" tvg-logo="http://iptvglobal.site:25461/images/8686dad4c58c4567dbfe3483711eb956.jpg" group-title="Serie Anime",SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 8
+https://ia902601.us.archive.org/21/items/swurdss08/swurdss08.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 9" tvg-logo="http://iptvglobal.site:25461/images/8686dad4c58c4567dbfe3483711eb956.jpg" group-title="Serie Anime",SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 9
+https://ia902601.us.archive.org/21/items/swurdss08/swurdss09.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 10" tvg-logo="http://iptvglobal.site:25461/images/8686dad4c58c4567dbfe3483711eb956.jpg" group-title="Serie Anime",SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 10
+https://ia902601.us.archive.org/21/items/swurdss08/swurdss10.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 11" tvg-logo="http://iptvglobal.site:25461/images/8686dad4c58c4567dbfe3483711eb956.jpg" group-title="Serie Anime",SWORD ART ONLINE: ALICIZATION - WAR OF UNDERWORLD 2ND SEASON - 11
+https://ia902601.us.archive.org/21/items/swurdss08/swurdss11.mp4
